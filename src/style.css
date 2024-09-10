@@ -1,1 +1,31 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#card {
+  font-size: 5rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  width: 18%;
+  min-height: 50%;
+  margin: 50px;
+}
+body {
+  background-color: green;
+}
+
+#figura-arriba {
+  font-size: 5rem;
+}
+
+#figura-abajo {
+  font-size: 5rem;
+}
+
+#valor {
+  font-size: 5rem;
+}
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
